@@ -1,10 +1,9 @@
-# reading-notes
-Code201 Reading Notes 
-:+1:
+# **reading-notes**
+Code201 Reading Notes :+1:
 
 ---
 
-## Code 201
+# **Code 201**
 
 - [Reading 1 - xxx](Class1.md)
 - [Reading 2 - xxx](Class2.md)
@@ -21,3 +20,6 @@ Code201 Reading Notes
 - [Reading 13 - xxx](Class13.md)
 - [Reading 14 - xxx](Class14.md)
 - [Reading 15 - xxx](Class15.md)
+
+---
+
