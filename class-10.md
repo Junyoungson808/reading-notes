@@ -34,4 +34,6 @@ Edge and Internet Explorer 11: Press F12 and then, Ctrl + 3, or if the tools are
 Safari: Open the Developer Tools and then select the Debugger tab.
 
 3. What is the call stack?
+
 -shows you what code was executed to get to the current line. You can see that the code is in the function that handles a mouse click, and that the code is currently paused on the breakpoint.
+

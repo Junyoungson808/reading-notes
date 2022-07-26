@@ -16,7 +16,7 @@
         - Making children take equal amount of available width/height
         - Making all columns in a multiple-column layout adopt the same height even if they contain a different amount of content.
 2. How does this topic connect with your long term goals?
-        - 
+        - I want to make my webpage more dynamic and visually appealing with proper sizing of the content and boxes within in my contents. 
 
 #### Bookmark and Review
 Learn CSS - Layout 
