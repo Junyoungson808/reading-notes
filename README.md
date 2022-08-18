@@ -35,7 +35,10 @@ Reading Notes :+1:
 ---
 
 # Code 301 - Table of Contents
-
+[Reading 1](class-01.md)
+[Reading 2](class-02.md)
+[Reading 3](class-03.md)
+[Reading 4](class-04.md)
 ---
 
 # Code 401 - Table of Contents
