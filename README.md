@@ -40,8 +40,10 @@ Reading Notes :+1:
 [Reading 3](Code 301 - Intermediate Software Development/class-03.md)
 [Reading 4](Code 301 - Intermediate Software Development/class-04.md)
 [Reading 5](Code 301 - Intermediate Software Development/class-05.md)
-[Reading 6](class-04.md)
-[Reading 7](class-04.md)
+[Reading 6](Code 301 - Intermediate Software Development/class-06.md)
+[Reading 7](Code 301 - Intermediate Software Development/class-07.md)
+[Reading 8](Code 301 - Intermediate Software Development/class-08.md)
+[Reading 9](Code 301 - Intermediate Software Development/class-09.md)
 ---
 
 # Code 401 - Table of Contents
