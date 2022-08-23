@@ -36,8 +36,8 @@ Reading Notes :+1:
 
 # Code 301 - Table of Contents
 
-[Code 301 - Intermediate Software Development](/class-01.md)
-[Reading 2](Code 301 - Intermediate Software Development/class-02.md)
+[Reading 1](class-01.md)
+[Reading 2](class-02.md)
 [Reading 3](Code 301 - Intermediate Software Development/class-03.md)
 [Reading 4](Code 301 - Intermediate Software Development/class-04.md)
 [Reading 5](Code 301 - Intermediate Software Development/class-05.md)
