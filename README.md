@@ -1,10 +1,12 @@
 # **Reading-Notes**
+
 Reading Notes :+1:
 
-7/10/2022 
+7/10/2022
 
 ---
-# Code 102 - Table of Contents
+
+## Code 102 - Table of Contents
 
 [Reading 1 - Growth Mindset](/Code%20102%20-%20Intro%20to%20Software%20Development/Class1.md)
 [Reading 2 - The Coder's Computer](/Code%20102%20-%20Intro%20to%20Software%20Development/Class2.md)
@@ -15,7 +17,8 @@ Reading Notes :+1:
 [Reading 7 - Functions](/Code%20102%20-%20Intro%20to%20Software%20Development/Class7.md)
 [Reading 8 - Loops](/Code%20102%20-%20Intro%20to%20Software%20Development/Class8.md)
 ---
-# Code 201 - Table of Contents
+
+## Code 201 - Table of Contents
 
 [Reading 1](/Code%20201%20-%20Foundations%20of%20Software%20Development/class-01.md)
 [Reading 2](/Code%20201%20-%20Foundations%20of%20Software%20Development/class-02.md)
@@ -34,7 +37,7 @@ Reading Notes :+1:
 [Reading 15](/Code%20201%20-%20Foundations%20of%20Software%20Development/class-15.md)
 ---
 
-# Code 301 - Table of Contents
+## Code 301 - Table of Contents
 
 [Reading prep](/Code%20301%20-%20Intermediate%20Software%20Development/301-prep.md)
 [Reading 1](/Code%20301%20-%20Intermediate%20Software%20Development/class-01.md)
@@ -54,8 +57,12 @@ Reading Notes :+1:
 [Reading 15](/Code%20301%20-%20Intermediate%20Software%20Development/301class-15.md)
 ---
 
-# Code 401 - Table of Contents
+## Code 401 - Table of Contents
 
-[Reading - The Growth MindSet](/Code%20301%20-%20Intermediate%20Software%20Development/301class-12.md)
+[Reading - The Growth MindSet](/Code%20401%20-%20Advanced%20Software%20Development/Growth-Mindset.md)
+[Reading - The Growth MindSet](/Code%20401%20-%20Advanced%20Software%20Development/Growth-Mindset.md)
+[Reading - The Growth MindSet](/Code%20401%20-%20Advanced%20Software%20Development/Growth-Mindset.md)
+[Reading - The Growth MindSet](/Code%20401%20-%20Advanced%20Software%20Development/Growth-Mindset.md)
+[Reading - The Growth MindSet](/Code%20401%20-%20Advanced%20Software%20Development/Growth-Mindset.md)
 
 ---
