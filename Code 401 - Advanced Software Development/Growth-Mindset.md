@@ -43,4 +43,4 @@
 
 ## Assess your Bias
 
-    [Bias Test Results](https://drive.google.com/drive/my-drive)
+[Bias Test Results](https://drive.google.com/drive/my-drive)
