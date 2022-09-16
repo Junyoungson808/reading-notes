@@ -34,11 +34,8 @@
 ## Assess Emotional Intelligence
 
     Self Awareness: 21
-
     Self-Management: 18
-
     Social Awareness: 20
-
     Relationship Management: 21
 
 ## Assess your Bias
