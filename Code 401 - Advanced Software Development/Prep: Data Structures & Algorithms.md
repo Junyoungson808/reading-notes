@@ -14,6 +14,7 @@
 ## Discussion Questions
 
 1. What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
-    
+    - recursion makes the solution code clearer. and for loops can often perform better, This will depend on what the problem domain is asking and what input and outputs expected and once you understand the problem domain and potential methods if you want to show the solution in a easier to read method maybe make a recursion if based on performance use a loop.
 
 2. How can we ensure that we’ll avoid an infinite recursive call stack?
+    - Recursion: base case (While loop) / recursion case (Recursion)
