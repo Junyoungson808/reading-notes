@@ -24,6 +24,7 @@
 
 2. What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
     1. Understand, what is being asked. Verbally speak out the problem to understand it.
+
     > “If you can’t explain something in simple terms, you don’t understand it.” — Richard Feynman
 
     2. Plan, create a plan in how to solve your problem. as a programmer use comments.
