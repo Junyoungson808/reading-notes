@@ -1,4 +1,5 @@
 # Reading
+
 ## [An introduction to NodeJS and Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 
 1. Explain middleware, answer as though I were a non-technical recruiter.
@@ -7,7 +8,7 @@
 3. Express is “unopinionated.” What does that mean?
     - You can insert almost any compatible middleware you like into the request handling chain, in almost any order you like. You can structure the app in one file or multiple files, and using any directory structure. You may sometimes feel that you have too many choices!
 4. What is a module and why is modularity useful to us as developers?
-    - Is a JavaScript library/file, We can use these librarys to create apps without recreating them. 
+    - Is a JavaScript library/file, We can use these librarys to create apps without recreating them.
 
     const express = require("express");
     const app = express();
@@ -26,7 +27,7 @@
 2. What are three expected benefits of testing
     1. significant reductions in defect rates
     2. reduction in effort in final phase of projects
-    3. leads to improved design qualities in the code, higher degree of internal or technical quality. 
+    3. leads to improved design qualities in the code, higher degree of internal or technical quality.
 3. Name at lest 2 individual pitfalls and at least 2 team pitfalls commonly encountered while writing tests.
     - Individual:
         1. writing to many tests at once
@@ -47,6 +48,7 @@
     - Github is a clearing house for your code. Github uses **webhooks**:send messages to external systems about activity in your projects.
 
 ## Bookmark and Review
+
 [nodeJS docs](https://nodejs.org/en/docs/)
 [npm docs](https://docs.npmjs.com/)
 [express docs](https://expressjs.com/en/4x/api.html)

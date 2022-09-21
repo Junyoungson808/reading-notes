@@ -10,7 +10,7 @@
 
 ## [The Super Mario Effect](https://www.youtube.com/watch?v=9vJRopau0g0)
 
-# Discussion Questions
+### Discussion Questions
 
 1. What’s the one thing I bring to this career (and a potential employer) that nobody else can?
 
@@ -23,12 +23,12 @@
     > “The most successful people I know are not busy. They’re focused.” -Jeff Goins
 
 2. What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
-    1. Understand, what is being asked. Verbally speak out the problem to understand it.
 
+1. Understand, what is being asked. Verbally speak out the problem to understand it.
     > “If you can’t explain something in simple terms, you don’t understand it.” — Richard Feynman
 
-    2. Plan, create a plan in how to solve your problem. as a programmer use comments.
+2. Plan, create a plan in how to solve your problem. as a programmer use comments.
 
-    3. Divide, break the problem into smaller
+3. Divide, break the problem into smaller
     components, solve those smaller components, and connect the solutions.
     Practice the following to better my problem solving and programmer career.

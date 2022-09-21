@@ -1,4 +1,6 @@
-# [Node Ecosystem](https://www.sitepoint.com/an-introduction-to-node-js)
+# Readings
+
+## [Node Ecosystem](https://www.sitepoint.com/an-introduction-to-node-js)
 
     1. How would you describe Node to a non-technical friend?
         - Node Js is a program we can use to execute JavaScript on our computeres JavaScript runtime. 
@@ -14,4 +16,3 @@
 
 ![Node.js Picture](https://uploads.sitepoint.com/wp-content/uploads/2012/10/1516152673node_event_loop.png)
 [Event Loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-
