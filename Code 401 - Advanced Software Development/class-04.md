@@ -21,9 +21,9 @@ Foreign Key = Column or Set of Colums that match primary key in a another table
 ### [sql vs nosql](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 
 1. How do we treat keywords and parameters differently in SQL syntax?
-    - 
+    - ??
 2. Define normalization within the context of schemas and data.
-    - 
+    - normalization allows the database to be 
 3. Explain the difference between one-to-one, one-to-many, and many-to-many relationships to a non-technical recruiter.
     - one entry equals to one colum/row, one entry can relate to many rows/colums in a data table, and many entrys have many relate to many colums/rows in many tables.
 
