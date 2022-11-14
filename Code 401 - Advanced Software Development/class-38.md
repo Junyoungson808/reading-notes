@@ -1,4 +1,5 @@
 # Reading
+
 ## [async actions](https://redux.js.org/advanced/asyncactions)
 
 1. Why use Redux middleware?
@@ -17,4 +18,5 @@
   -The inner thunk will take in the dispatch and getstate as parameters and returns a function that allows for more uses and side effects.
 
 ### Reflection
+
 What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-38/)
